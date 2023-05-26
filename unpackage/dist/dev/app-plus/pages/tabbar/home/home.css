@@ -1,0 +1,24 @@
+
+.content {
+	text-align: center;
+	height: 12.5rem;
+	width: 100%;
+	margin-top: 6.25rem;
+}
+.function{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 26px;
+	height: 100px;
+}
+.function2{
+	display: flex;
+	justify-content: center;
+	height: 100px;
+}
+.button{
+	width: 40%;
+	max-height: 100px;
+	background-color: azure;
+	margin-top: 30px;
+}
